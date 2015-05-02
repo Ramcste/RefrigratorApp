@@ -1,0 +1,8 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\RefrigratorApp\RefrigratorApp\bin\Debug\RefrigratorApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\RefrigratorApp\RefrigratorApp\bin\Debug\RefrigratorApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\RefrigratorApp\RefrigratorApp\bin\Debug\RefrigratorApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\RefrigratorApp\RefrigratorApp\obj\Debug\RefrigratorApp.RefrigratorUI.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\RefrigratorApp\RefrigratorApp\obj\Debug\RefrigratorApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\RefrigratorApp\RefrigratorApp\obj\Debug\RefrigratorApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\RefrigratorApp\RefrigratorApp\obj\Debug\RefrigratorApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\RefrigratorApp\RefrigratorApp\obj\Debug\RefrigratorApp.pdb
